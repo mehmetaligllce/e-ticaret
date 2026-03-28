@@ -40,21 +40,20 @@ Authentication:
 ## Mimari
 
 - Frontend ve backend REST API üzerinden haberleşir  
-- Authentication session ve cookie üzerinden yönetilir :contentReference[oaicite:0]{index=0}  
-- Veritabanı işlemleri Mongoose ile gerçekleştirilir :contentReference[oaicite:1]{index=1}  
-- Kullanıcı, ürün ve sipariş yapıları ayrı modeller ile yönetilir :contentReference[oaicite:2]{index=2}  
+- Authentication session ve cookie üzerinden yönetilir 
+- Veritabanı işlemleri Mongoose ile gerçekleştirilir
+- Kullanıcı, ürün ve sipariş yapıları ayrı modeller ile yönetilir 
 
 ---
 
 ## Öne Çıkan Kısımlar
 
-- Sepet yönetimi Zustand ile global state olarak tutulur :contentReference[oaicite:3]{index=3}  
-- Kullanıcı oturumu session ve cookie ile yönetilir :contentReference[oaicite:4]{index=4}  
+- Sepet yönetimi Zustand ile global state olarak tutulur 
+- Kullanıcı oturumu session ve cookie ile yönetilir   
 - Şifreler bcrypt ile hashlenir  
-- Ürün CRUD işlemleri backend üzerinden yapılır :contentReference[oaicite:5]{index=5}  
-- Sipariş oluşturma ve geçmiş listeleme sistemi bulunur :contentReference[oaicite:6]{index=6}  
-- Admin kullanıcılar ürün ekleyip silebilir :contentReference[oaicite:7]{index=7}  
-
+- Ürün CRUD işlemleri backend üzerinden yapılır 
+- Sipariş oluşturma ve geçmiş listeleme sistemi bulunur  
+- Admin kullanıcılar ürün ekleyip silebilir 
 ---
 
 ## Kazanımlar
