@@ -3,7 +3,7 @@
 Kullanıcıların ürünleri görüntüleyebildiği, sepete ekleyebildiği ve sipariş oluşturabildiği bir e-ticaret uygulaması. Admin kullanıcılar ürün yönetimi yapabilir. Uygulama frontend ve backend olarak fullstack şekilde geliştirilmiştir.
 
 ---
-
+##Siteye giriş için: https://renvstudio.com/
 ## Özellikler
 
 - Kullanıcı kayıt, giriş ve çıkış sistemi  
