@@ -4,6 +4,7 @@ Kullanıcıların ürünleri görüntüleyebildiği, sepete ekleyebildiği ve si
 
 ---
 ## Siteye giriş için: https://renvstudio.com/
+CSS ler için yapay zekadan yardım alınmıştır.
 ## Özellikler
 
 - Kullanıcı kayıt, giriş ve çıkış sistemi  
